@@ -1,0 +1,2 @@
+touch paytrain{1..4}
+cat>file1 hi good morning
